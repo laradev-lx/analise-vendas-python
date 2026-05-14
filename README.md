@@ -41,7 +41,7 @@ Comparativo VIP x Não VIP por categoria
 
 Clone o repositório:
 
-
+git clone https://github.com/laradev-lx/analise-vendas-python.git
 
 Abra o notebook no Google Colab ou Jupyter Notebook.
 Faça upload do arquivo dados_venda_empresa1.csv quando solicitado.
